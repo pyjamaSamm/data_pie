@@ -5,6 +5,7 @@ It has been created using HTML, CSS and Chart.Js(Javascript library). It helps t
 It is a responsive website.
 
 User interface:
-![Gulafsha_piechart_ui](https://user-images.githubusercontent.com/74822950/169964173-7ac90eba-8a39-48ba-a1e6-87ed6bbb83d2.png)
+![gulafsha_ui](https://user-images.githubusercontent.com/74822950/169965917-0cdf3224-a3f1-4fb6-aaf4-be2356a704b0.png)
+
 
 Demonstration video: https://drive.google.com/file/d/1WPb5NWskB5GuORKpOkm4CNoEs7MRO_2T/view?usp=sharing
